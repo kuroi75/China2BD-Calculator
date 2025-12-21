@@ -1,6 +1,6 @@
 # Download latest version
 
-[![Download](https://img.shields.io/badge/Download-Installer-green)]([https://github.com/FahimAF/ImportCalc/releases/latest/download/ImportCalcInstaller.exe](https://github.com/kuroi75/China2BD-Calculator/blob/9a7be2d30597505fc21e5ce53759fdccb6508a86/Vertion%201.8.zip))
+[![Download](https://img.shields.io/badge/Download-Installer-green)]([https://github.com/kuroi75/China2BD-Calculator/releases/tag/China2BD-Calculator_v1.8])))
 
 
 **Features**
