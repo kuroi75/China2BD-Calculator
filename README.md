@@ -1,6 +1,6 @@
 # Download latest version
 
-[![Download]([https://github.com/kuroi75/China2BD-Calculator/releases/tag/China2BD-Calculator_v1.8])]([https://github.com/kuroi75/China2BD-Calculator/releases/tag/China2BD-Calculator_v1.8])
+[![Download](https://img.shields.io/badge/Download-Installer-green)](https://github.com/kuroi75/China2BD-Calculator/releases)
 
 
 **Features**
